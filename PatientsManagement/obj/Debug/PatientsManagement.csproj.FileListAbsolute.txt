@@ -1,0 +1,11 @@
+F:\ASP.NET\PatientsManagement\PatientsManagement\bin\Debug\PatientsManagement.exe.config
+F:\ASP.NET\PatientsManagement\PatientsManagement\bin\Debug\PatientsManagement.exe
+F:\ASP.NET\PatientsManagement\PatientsManagement\bin\Debug\PatientsManagement.pdb
+F:\ASP.NET\PatientsManagement\PatientsManagement\obj\Debug\PatientsManagement.csprojResolveAssemblyReference.cache
+F:\ASP.NET\PatientsManagement\PatientsManagement\obj\Debug\PatientsManagement.AddPatients.resources
+F:\ASP.NET\PatientsManagement\PatientsManagement\obj\Debug\PatientsManagement.Properties.Resources.resources
+F:\ASP.NET\PatientsManagement\PatientsManagement\obj\Debug\PatientsManagement.csproj.GenerateResource.Cache
+F:\ASP.NET\PatientsManagement\PatientsManagement\obj\Debug\PatientsManagement.exe
+F:\ASP.NET\PatientsManagement\PatientsManagement\obj\Debug\PatientsManagement.pdb
+F:\ASP.NET\PatientsManagement\PatientsManagement\obj\Debug\PatientsManagement.PatientsDetails.resources
+F:\ASP.NET\PatientsManagement\PatientsManagement\obj\Debug\PatientsManagement.Welcome.resources
